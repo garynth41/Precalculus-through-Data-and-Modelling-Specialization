@@ -1,4 +1,4 @@
-# Precalcul
+# Precalculus: Relations and Functions
 
 # About this Course
 This course helps to build the foundational material to use mathematics as a tool to model, understand, and interpret the world around us.  This is done through studying functions, their properties, and applications to data analysis.  Concepts of precalculus provide the set of tools for the beginning student to begin their scientific career, preparing them for future science and calculus courses. This course is designed for all students, not just those interested in further mathematics courses.  
