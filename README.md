@@ -2,7 +2,7 @@
 Learn foundational math skills and concepts. Develop the mathematical skills you need to analyze, visualize, and model data.
 
 
-#WHAT YOU WILL LEARN
+# WHAT YOU WILL LEARN
 - Model data with both single and multivariable functions
 - Visualize and analyze data using different technologies.
 - Understand properties of different types of functions to apply them accordingly to model different situations.
